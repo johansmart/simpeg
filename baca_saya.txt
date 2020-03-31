@@ -1,0 +1,16 @@
+Copy Folder ASKA ke htdocs 
+Install databasenya db_pegawai
+buat database db_pegawai
+eksekusi query pada file db_pegawai.sql (bisa diimport atau eksekusi query/tab SQL pada phpmyadmin)
+
+Edit koneksi ke database
+edit file config/koneksi.php, sesuaikan nama host, username dan password database 
+
+Username & Password
+Type         	Username	Password      
+Admin 		andez  		andez
+Admin Pegawai	wahyu		wahyu
+Admin Absen	rohmah		rohmah
+User		ekosutiyoso     ekosutiyoso
+Kabag		usep		usep
+Manager         reska		reska

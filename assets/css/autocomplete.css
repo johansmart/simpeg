@@ -1,0 +1,42 @@
+ <style type="text/css">
+          .web{
+              font-family:tahoma;
+              top:10%;
+              border:1px solid #CDCDCD;
+              border-radius:10px;
+              padding:10px;
+              width:38%;
+              margin:auto;
+          }
+          #search_keyword_id
+          {
+              width:300px;
+              border:solid 1px #CDCDCD;
+              padding:10px;
+              font-size:12px;
+          }
+          #result
+          {
+              position:absolute;
+              width:300px;
+              display:none;
+              margin-top:-1px;
+              border-top:0px;
+              overflow:hidden;
+              border:1px #CDCDCD solid;
+              background-color: white;
+          }
+          .show
+          {
+              font-family:tahoma;
+              padding:10px;
+              border-bottom:1px #CDCDCD dashed;
+              font-size:12px;
+          }
+          .show:hover
+          {
+              background:#364956;
+              color:#FFF;
+              cursor:pointer;
+          }
+      </style>
